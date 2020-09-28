@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fab44dd0-94b4-4890-9c52-1df7f4ee93ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i5Ujdr5As2PjGfM609OJ7IPelt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\learn-ts\ts" />
+      <recent name="F:\learn-ts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\learn-ts\ts" />
+      <recent name="F:\learn-ts\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TypeScript.assert.ts">
+    <configuration name="any.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="learn-ts" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/ts/any.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="C:\laragon\bin\nodejs\node-v12\node_modules\ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assert.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="learn-ts" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/ts/assert.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="C:\laragon\bin\nodejs\node-v12\node_modules\ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enum.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="learn-ts" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/ts/enum.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="C:\laragon\bin\nodejs\node-v12\node_modules\ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tuple.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="learn-ts" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/ts/tuple.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="C:\laragon\bin\nodejs\node-v12\node_modules\ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="void.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="learn-ts" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/ts/void.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="C:\laragon\bin\nodejs\node-v12\node_modules\ts-node" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TypeScript.assert.ts" />
+        <item itemvalue="TypeScript.void.ts" />
+        <item itemvalue="TypeScript.any.ts" />
+        <item itemvalue="TypeScript.enum.ts" />
+        <item itemvalue="TypeScript.tuple.ts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fab44dd0-94b4-4890-9c52-1df7f4ee93ae" name="Default Changelist" comment="" />
+      <created>1601197082768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601197082768</updated>
+      <workItem from="1601197083954" duration="2542000" />
+      <workItem from="1601256179618" duration="7947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601258067513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601258067513" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1601263408316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601263408316" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1601263408316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601263408316" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1601263408316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601263408316" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1601263408316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601263408316" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1601197388922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601197388922" />
+    <state x="519" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601260410627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="519" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601260410627" />
+  </component>
+</project>

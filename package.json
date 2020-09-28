@@ -1,0 +1,14 @@
+{
+  "name": "learn-ts",
+  "version": "1.0.0",
+  "description": "乐编码",
+  "main": "ts/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "乐编码-ts，typescript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
