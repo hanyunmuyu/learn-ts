@@ -1,3 +1,4 @@
+>ts编译依赖nodejs，一下内容建立在已经安装nodejs的前提之下
 1：安装ts:
 
 ```
@@ -53,3 +54,7 @@ console.log('Hello World')
 5、 运行index.ts
 
 ![运行ts](./images/QQ截图20200927170558.png)
+
+#### 欢迎大家关注我的公众号： **乐编码**
+
+![乐编码](./images/qrcode_for_gh_5f263ce0c283_258.jpg)
