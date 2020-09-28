@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fab44dd0-94b4-4890-9c52-1df7f4ee93ae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Console" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -51,7 +50,7 @@
       <recent name="F:\learn-ts" />
     </key>
   </component>
-  <component name="RunManager" selected="TypeScript.assert.ts">
+  <component name="RunManager" selected="TypeScript.interface.ts">
     <configuration name="any.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
       <module name="learn-ts" />
       <option name="interpreterRef" value="project" />
@@ -85,15 +84,16 @@
       <option name="programParameters" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuple.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+    <configuration name="interface.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
       <module name="learn-ts" />
       <option name="interpreterRef" value="project" />
       <option name="interpreterOptions" value="" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
       <option name="tsconfigFile" value="" />
       <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/ts/tuple.ts" />
+      <option name="scriptName" value="$PROJECT_DIR$/ts/interface.ts" />
       <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="C:\laragon\bin\nodejs\node-v12\node_modules\ts-node" />
       <method v="2" />
     </configuration>
     <configuration name="void.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
@@ -109,15 +109,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TypeScript.interface.ts" />
         <item itemvalue="TypeScript.assert.ts" />
         <item itemvalue="TypeScript.void.ts" />
         <item itemvalue="TypeScript.any.ts" />
         <item itemvalue="TypeScript.enum.ts" />
-        <item itemvalue="TypeScript.tuple.ts" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="DEFAULT_SDK" />
+    <option name="myConnectionId" value="" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fab44dd0-94b4-4890-9c52-1df7f4ee93ae" name="Default Changelist" comment="" />
@@ -127,7 +132,7 @@
       <updated>1601197082768</updated>
       <workItem from="1601197083954" duration="2542000" />
       <workItem from="1601256179618" duration="8574000" />
-      <workItem from="1601271011751" duration="1000000" />
+      <workItem from="1601271011751" duration="4104000" />
     </task>
     <task id="LOCAL-00001" summary="ts学习，基础数据类型">
       <created>1601264825726</created>
@@ -136,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601264825726</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ts学习，基础数据类型">
+      <created>1601272122506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601272122506</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ts学习，基础数据类型">
+      <created>1601272136146</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601272136146</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,34 +170,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601258067513" />
-    <state x="558" y="94" key="CommitChangelistDialog2" timestamp="1601264823468">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1601274551177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="94" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601264823468" />
-    <state width="1877" height="196" key="GridCell.Tab.0.bottom" timestamp="1601265236394">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601274551177" />
+    <state x="558" y="94" key="CommitChangelistDialog2" timestamp="1601272135302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="196" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601265236394" />
-    <state width="1877" height="196" key="GridCell.Tab.0.center" timestamp="1601265236394">
+    <state x="558" y="94" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601272135302" />
+    <state x="818" y="265" key="EnvironmentVariablesDialog" timestamp="1601272683087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="196" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601265236394" />
-    <state width="1877" height="196" key="GridCell.Tab.0.left" timestamp="1601265236394">
+    <state x="818" y="265" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601272683087" />
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom" timestamp="1601274794920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="196" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601265236394" />
-    <state width="1877" height="196" key="GridCell.Tab.0.right" timestamp="1601265236394">
+    <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
+    <state width="1877" height="234" key="GridCell.Tab.0.center" timestamp="1601274794920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="196" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601265236394" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1601197388922">
+    <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
+    <state width="1877" height="234" key="GridCell.Tab.0.left" timestamp="1601274794920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601197388922" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601264849125">
+    <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
+    <state width="1877" height="234" key="GridCell.Tab.0.right" timestamp="1601274794920">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601264849125" />
+    <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1601272809253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601272809253" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601272137334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601272137334" />
     <state x="519" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601260410627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
