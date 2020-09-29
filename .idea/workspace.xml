@@ -35,8 +35,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Console" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +50,7 @@
       <recent name="F:\learn-ts" />
     </key>
   </component>
-  <component name="RunManager" selected="TypeScript.interface.ts">
+  <component name="RunManager" selected="TypeScript.class.ts">
     <configuration name="any.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
       <module name="learn-ts" />
       <option name="interpreterRef" value="project" />
@@ -73,15 +73,16 @@
       <option name="programParameters" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="enum.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+    <configuration name="class.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
       <module name="learn-ts" />
       <option name="interpreterRef" value="project" />
       <option name="interpreterOptions" value="" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
       <option name="tsconfigFile" value="" />
       <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/ts/enum.ts" />
+      <option name="scriptName" value="$PROJECT_DIR$/ts/class.ts" />
       <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="/usr/local/lib/node_modules/ts-node" />
       <method v="2" />
     </configuration>
     <configuration name="interface.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
@@ -93,7 +94,6 @@
       <option name="extraTypeScriptOptions" value="" />
       <option name="scriptName" value="$PROJECT_DIR$/ts/interface.ts" />
       <option name="programParameters" value="" />
-      <option name="tsnodePackage" value="C:\laragon\bin\nodejs\node-v12\node_modules\ts-node" />
       <method v="2" />
     </configuration>
     <configuration name="void.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TypeScript.class.ts" />
         <item itemvalue="TypeScript.interface.ts" />
         <item itemvalue="TypeScript.assert.ts" />
         <item itemvalue="TypeScript.void.ts" />
         <item itemvalue="TypeScript.any.ts" />
-        <item itemvalue="TypeScript.enum.ts" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +133,7 @@
       <workItem from="1601197083954" duration="2542000" />
       <workItem from="1601256179618" duration="8574000" />
       <workItem from="1601271011751" duration="4104000" />
+      <workItem from="1601391339639" duration="1843000" />
     </task>
     <task id="LOCAL-00001" summary="ts学习，基础数据类型">
       <created>1601264825726</created>
@@ -170,10 +171,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601258067513" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1601274551177">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="574" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1601392293948">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601274551177" />
+    <state x="574" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1601392293948" />
     <state x="558" y="94" key="CommitChangelistDialog2" timestamp="1601272135302">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -182,26 +184,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="818" y="265" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601272683087" />
-    <state width="1877" height="234" key="GridCell.Tab.0.bottom" timestamp="1601274794920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom" timestamp="1601393563197">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1877" height="234" key="GridCell.Tab.0.center" timestamp="1601274794920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
+    <state width="1398" height="176" key="GridCell.Tab.0.center" timestamp="1601393563197">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1877" height="234" key="GridCell.Tab.0.left" timestamp="1601274794920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="176" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
+    <state width="1398" height="176" key="GridCell.Tab.0.left" timestamp="1601393563196">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1877" height="234" key="GridCell.Tab.0.right" timestamp="1601274794920">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="176" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601393563196" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right" timestamp="1601393563197">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1601272809253">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
+    <state x="346" y="161" key="SettingsEditor" timestamp="1601391366251">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601272809253" />
+    <state x="346" y="161" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601391366251" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601272137334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
