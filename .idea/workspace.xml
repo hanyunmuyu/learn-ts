@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fab44dd0-94b4-4890-9c52-1df7f4ee93ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eeeb5fb1-28da-4fb0-9927-2ccbcee8f36a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/类.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/类.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,214 +13,14 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="TypeScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1i5Ujdr5As2PjGfM609OJ7IPelt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\learn-ts\ts" />
-      <recent name="F:\learn-ts\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\learn-ts\images" />
-      <recent name="F:\learn-ts\ts" />
-      <recent name="F:\learn-ts" />
-    </key>
-  </component>
-  <component name="RunManager" selected="TypeScript.class.ts">
-    <configuration name="any.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
-      <module name="learn-ts" />
-      <option name="interpreterRef" value="project" />
-      <option name="interpreterOptions" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
-      <option name="tsconfigFile" value="" />
-      <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/ts/any.ts" />
-      <option name="programParameters" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="assert.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
-      <module name="learn-ts" />
-      <option name="interpreterRef" value="project" />
-      <option name="interpreterOptions" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
-      <option name="tsconfigFile" value="" />
-      <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/ts/assert.ts" />
-      <option name="programParameters" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="class.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
-      <module name="learn-ts" />
-      <option name="interpreterRef" value="project" />
-      <option name="interpreterOptions" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
-      <option name="tsconfigFile" value="" />
-      <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/ts/class.ts" />
-      <option name="programParameters" value="" />
-      <option name="tsnodePackage" value="/usr/local/lib/node_modules/ts-node" />
-      <method v="2" />
-    </configuration>
-    <configuration name="interface.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
-      <module name="learn-ts" />
-      <option name="interpreterRef" value="project" />
-      <option name="interpreterOptions" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
-      <option name="tsconfigFile" value="" />
-      <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/ts/interface.ts" />
-      <option name="programParameters" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="void.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
-      <module name="learn-ts" />
-      <option name="interpreterRef" value="project" />
-      <option name="interpreterOptions" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
-      <option name="tsconfigFile" value="" />
-      <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/ts/void.ts" />
-      <option name="programParameters" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TypeScript.class.ts" />
-        <item itemvalue="TypeScript.interface.ts" />
-        <item itemvalue="TypeScript.assert.ts" />
-        <item itemvalue="TypeScript.void.ts" />
-        <item itemvalue="TypeScript.any.ts" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SshConsoleOptionsProvider">
-    <option name="myEncoding" value="UTF-8" />
-    <option name="myConnectionType" value="DEFAULT_SDK" />
-    <option name="myConnectionId" value="" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="fab44dd0-94b4-4890-9c52-1df7f4ee93ae" name="Default Changelist" comment="" />
-      <created>1601197082768</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1601197082768</updated>
-      <workItem from="1601197083954" duration="2542000" />
-      <workItem from="1601256179618" duration="8574000" />
-      <workItem from="1601271011751" duration="4104000" />
-      <workItem from="1601391339639" duration="1843000" />
-    </task>
-    <task id="LOCAL-00001" summary="ts学习，基础数据类型">
-      <created>1601264825726</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1601264825726</updated>
-    </task>
-    <task id="LOCAL-00002" summary="ts学习，基础数据类型">
-      <created>1601272122506</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1601272122506</updated>
-    </task>
-    <task id="LOCAL-00003" summary="ts学习，基础数据类型">
-      <created>1601272136146</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1601272136146</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="ts学习，基础数据类型" />
-    <option name="LAST_COMMIT_MESSAGE" value="ts学习，基础数据类型" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601258067513">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601258067513" />
-    <state x="574" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1601392293948">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601274551177" />
-    <state x="574" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1601392293948" />
-    <state x="558" y="94" key="CommitChangelistDialog2" timestamp="1601272135302">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="558" y="94" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601272135302" />
-    <state x="818" y="265" key="EnvironmentVariablesDialog" timestamp="1601272683087">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="818" y="265" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601272683087" />
-    <state width="1398" height="176" key="GridCell.Tab.0.bottom" timestamp="1601393563197">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1398" height="176" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
-    <state width="1398" height="176" key="GridCell.Tab.0.center" timestamp="1601393563197">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1398" height="176" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
-    <state width="1398" height="176" key="GridCell.Tab.0.left" timestamp="1601393563196">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1398" height="176" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601393563196" />
-    <state width="1398" height="176" key="GridCell.Tab.0.right" timestamp="1601393563197">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1398" height="176" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
-    <state x="346" y="161" key="SettingsEditor" timestamp="1601391366251">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601272809253" />
-    <state x="346" y="161" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601391366251" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601272137334">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601272137334" />
-    <state x="519" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601260410627">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="519" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601260410627" />
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601271981931">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601271981931" />
   </component>
 </project>
