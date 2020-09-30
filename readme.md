@@ -57,4 +57,4 @@ console.log('Hello World')
 
 #### 欢迎大家关注我的公众号： **乐编码**
 
-![乐编码](./images/qrcode_for_gh_5f263ce0c283_258.jpg)
+![乐编码](qrcode_for_gh_5f263ce0c283_258.jpg)

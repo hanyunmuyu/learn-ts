@@ -20,3 +20,17 @@ function lee4(...title: string[]) {
     console.log(title)
 }
 lee4('乐编码', '作者', '寒云')
+
+
+function lee5(title: string): string {
+    return title
+}
+lee5('乐编码')
+
+interface leeI {
+    title: string
+}
+function lee6(title: string): leeI {
+    return { title: title }
+}
+console.log(lee6('乐编码'))
