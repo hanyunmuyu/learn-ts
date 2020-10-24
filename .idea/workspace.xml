@@ -50,17 +50,16 @@
       <recent name="F:\learn-ts" />
     </key>
   </component>
-  <component name="RunManager" selected="TypeScript.array3.ts">
-    <configuration name="array3.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+  <component name="RunManager" selected="TypeScript.class.ts">
+    <configuration name="any.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
       <module name="learn-ts" />
       <option name="interpreterRef" value="project" />
       <option name="interpreterOptions" value="" />
       <option name="workingDirectory" value="$PROJECT_DIR$/ts" />
       <option name="tsconfigFile" value="" />
       <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/ts/array3.ts" />
+      <option name="scriptName" value="$PROJECT_DIR$/ts/any.ts" />
       <option name="programParameters" value="" />
-      <option name="tsnodePackage" value="/usr/local/lib/node_modules/ts-node" />
       <method v="2" />
     </configuration>
     <configuration name="assert.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
@@ -83,6 +82,7 @@
       <option name="extraTypeScriptOptions" value="" />
       <option name="scriptName" value="$PROJECT_DIR$/ts/class.ts" />
       <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="/usr/local/lib/node_modules/ts-node" />
       <method v="2" />
     </configuration>
     <configuration name="interface.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TypeScript.array3.ts" />
         <item itemvalue="TypeScript.class.ts" />
         <item itemvalue="TypeScript.interface.ts" />
         <item itemvalue="TypeScript.assert.ts" />
         <item itemvalue="TypeScript.void.ts" />
+        <item itemvalue="TypeScript.any.ts" />
       </list>
     </recent_temporary>
   </component>
@@ -133,8 +133,7 @@
       <workItem from="1601197083954" duration="2542000" />
       <workItem from="1601256179618" duration="8574000" />
       <workItem from="1601271011751" duration="4104000" />
-      <workItem from="1601391339639" duration="2442000" />
-      <workItem from="1603548462466" duration="1175000" />
+      <workItem from="1601391339639" duration="1843000" />
     </task>
     <task id="LOCAL-00001" summary="ts学习，基础数据类型">
       <created>1601264825726</created>
@@ -157,14 +156,7 @@
       <option name="project" value="LOCAL" />
       <updated>1601272136146</updated>
     </task>
-    <task id="LOCAL-00004" summary="ts学习，类">
-      <created>1601394169705</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1601394169705</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,8 +164,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ts学习，基础数据类型" />
-    <MESSAGE value="ts学习，类" />
-    <option name="LAST_COMMIT_MESSAGE" value="ts学习，类" />
+    <option name="LAST_COMMIT_MESSAGE" value="ts学习，基础数据类型" />
   </component>
   <component name="WindowStateProjectService">
     <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601258067513">
@@ -185,45 +176,43 @@
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601274551177" />
     <state x="574" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1601392293948" />
-    <state x="419" y="51" key="CommitChangelistDialog2" timestamp="1601394169472">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="558" y="94" key="CommitChangelistDialog2" timestamp="1601272135302">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="558" y="94" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601272135302" />
-    <state x="419" y="51" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1601394169472" />
     <state x="818" y="265" key="EnvironmentVariablesDialog" timestamp="1601272683087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="818" y="265" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601272683087" />
-    <state width="1398" height="176" key="GridCell.Tab.0.bottom" timestamp="1601394775741">
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom" timestamp="1601393563197">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1877" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1398" height="176" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601394775741" />
-    <state width="1398" height="176" key="GridCell.Tab.0.center" timestamp="1601394775740">
+    <state width="1398" height="176" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
+    <state width="1398" height="176" key="GridCell.Tab.0.center" timestamp="1601393563197">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1877" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1398" height="176" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601394775740" />
-    <state width="1398" height="176" key="GridCell.Tab.0.left" timestamp="1601394775740">
+    <state width="1398" height="176" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
+    <state width="1398" height="176" key="GridCell.Tab.0.left" timestamp="1601393563196">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1877" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1398" height="176" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601394775740" />
-    <state width="1398" height="176" key="GridCell.Tab.0.right" timestamp="1601394775740">
+    <state width="1398" height="176" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601393563196" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right" timestamp="1601393563197">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1877" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601274794920" />
-    <state width="1398" height="176" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601394775740" />
+    <state width="1398" height="176" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601393563197" />
     <state x="346" y="161" key="SettingsEditor" timestamp="1601391366251">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601272809253" />
     <state x="346" y="161" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601391366251" />
-    <state x="414" y="236" key="Vcs.Push.Dialog.v2" timestamp="1601394681730">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601272137334">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601272137334" />
-    <state x="414" y="236" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601394681730" />
     <state x="519" y="117" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601260410627">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
